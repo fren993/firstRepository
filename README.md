@@ -1,1 +1,6 @@
-# firstRepository
+-What is a repository I don't know yet
+-CTE course Web and Dev
+-year is 2024
+-i love cats
+-this is so much fun
+-2 more years of suffering 🤕🫨⛈️
