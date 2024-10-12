@@ -1,7 +1,7 @@
--What is a repository I don't know yet
--CTE course Web and Dev
--year is 2024
--i love cats
--this is so much fun
--2 more years of suffering 🤕🫨⛈️
+- What is a repository I don't know yet
+- CTE course Web and Dev
+- year is 2024
+- i love cats
+- this is so much fun
+- 2 more years of suffering 🤕🫨⛈️
 - In this 3 days weekend I'll pick up my glasses and sleep
